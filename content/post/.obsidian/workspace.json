@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md教程/index.md",
+                "file": "openclaw-test/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md教程/index.md",
+                "file": "openclaw-test/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,15 +196,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a37d916414a4e42f",
+  "active": "360f478ad6b6f421",
   "lastOpenFiles": [
+    "placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg",
+    "placeholder-text/index.ar.md",
+    "placeholder-text/index.md",
     "openclaw-test/index.md",
+    "md教程/index.md",
+    "hugo教程/index.md",
     "openclaw-test",
     "未命名",
     "未命名.base",
     "未命名 1.base",
-    "md教程/index.md",
-    "hugo教程/index.md",
     "math-typesetting/index.md",
     "markdown-syntax/index.md",
     "markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg",
