@@ -17,6 +17,9 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: https://redamancy0918.github.io/
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
