@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Example Site</title><link>https://redamancy0918.github.io/post/</link><description>Recent content in Posts on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Example Person</copyright><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://redamancy0918.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Syntax Guide</title><link>https://redamancy0918.github.io/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://redamancy0918.github.io/p/markdown-syntax-guide/</guid><description>&lt;img src="https://redamancy0918.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Example Site</title><link>https://redamancy0918.github.io/post/</link><description>Recent content in Posts on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Example Person</copyright><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://redamancy0918.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenClaw 自动部署测试</title><link>https://redamancy0918.github.io/p/openclaw-%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid>https://redamancy0918.github.io/p/openclaw-%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="openclaw-自动部署测试"&gt;OpenClaw 自动部署测试
+&lt;/h1&gt;&lt;p&gt;这是一篇由 &lt;strong&gt;OpenClaw&lt;/strong&gt; 自动推送到 GitHub 并成功渲染的测试文章。&lt;/p&gt;
+&lt;h2 id="测试目的"&gt;测试目的
+&lt;/h2&gt;&lt;p&gt;验证以下自动化流程是否正常工作：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Obsidian-git 自动 commit + push&lt;/li&gt;
+&lt;li&gt;GitHub Actions 自动检测 src 分支变化&lt;/li&gt;
+&lt;li&gt;Hugo 静态网站自动构建&lt;/li&gt;
+&lt;li&gt;GitHub Pages 自动更新&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="如果你看到这篇文章"&gt;如果你看到这篇文章
+&lt;/h2&gt;&lt;p&gt;说明整个自动化流程已经打通 ✅&lt;/p&gt;
+&lt;h2 id="关于"&gt;关于
+&lt;/h2&gt;&lt;p&gt;这篇文章由秋風的 OpenClaw AI coworker 自动创建和管理。&lt;/p&gt;</description></item><item><title>Markdown Syntax Guide</title><link>https://redamancy0918.github.io/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://redamancy0918.github.io/p/markdown-syntax-guide/</guid><description>&lt;img src="https://redamancy0918.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id="headings"&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id="h1"&gt;H1
