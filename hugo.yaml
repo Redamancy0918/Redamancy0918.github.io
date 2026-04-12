@@ -2,7 +2,7 @@ baseurl: https://redamancy0918.github.io/
 languageCode: zh-cn
 theme: hugo-theme-stack
 title: 秋風的技术博客
-copyright: © 2026 秋風
+copyright: 秋風
 
 contentDir: content
 DefaultContentLanguage: zh-cn
