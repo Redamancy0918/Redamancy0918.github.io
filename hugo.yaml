@@ -129,22 +129,32 @@ menu:
           name: 主页
           url: /
           weight: 1
+          params:
+              icon: home
         - identifier: archives
           name: 归档
           url: /archives/
           weight: 2
+          params:
+              icon: archives
         - identifier: search
           name: 搜索
           url: /search/
           weight: 3
+          params:
+              icon: search
         - identifier: links
           name: 友链
           url: /links/
           weight: 4
+          params:
+              icon: link
         - identifier: about
           name: 关于
           url: /about/
           weight: 5
+          params:
+              icon: user
 
     social:
         - identifier: github
