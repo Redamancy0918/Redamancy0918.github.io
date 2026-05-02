@@ -1,13 +1,4 @@
 {
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "K"
-    }
-  ],
   "obsidian-git:Commit-and-sync": [
     {
       "modifiers": [
@@ -15,6 +6,15 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "K"
     }
   ]
 }
