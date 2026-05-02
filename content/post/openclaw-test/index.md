@@ -1,8 +1,10 @@
 ---
-title: "OpenClaw 自动部署测试"
+title: OpenClaw 自动部署测试
 date: 2026-04-11
-tags: ["测试", "OpenClaw"]
-description: "这是一篇通过 OpenClaw 自动部署流程推送的测试文章"
+tags:
+  - 测试
+  - OpenClaw
+description: 这是一篇通过 OpenClaw 自动部署流程推送的测试文章
 ---
 
 # OpenClaw 自动部署测试

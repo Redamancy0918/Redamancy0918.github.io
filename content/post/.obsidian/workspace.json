@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fca1e817ae2adc0d",
+        "id": "8a81ab201351c43d",
         "type": "tabs",
         "children": [
           {
-            "id": "360f478ad6b6f421",
+            "id": "9fc7c6208a2b19fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openclaw-test/index.md",
+                "file": "人像摄影入门-如何找摄影老师/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "openclaw-test/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -196,24 +195,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "360f478ad6b6f421",
+  "active": "9fc7c6208a2b19fd",
   "lastOpenFiles": [
+    "openclaw-test/index.md",
+    "人像摄影入门-如何找摄影老师/index.md",
+    "C++ basics/index.md",
+    "hugo教程/index.md",
+    "md教程/index.md",
+    "2026-04-11.md",
+    "未命名.base",
     "placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg",
     "placeholder-text/index.ar.md",
     "placeholder-text/index.md",
-    "openclaw-test/index.md",
-    "md教程/index.md",
-    "hugo教程/index.md",
     "openclaw-test",
     "未命名",
-    "未命名.base",
     "未命名 1.base",
     "math-typesetting/index.md",
     "markdown-syntax/index.md",
     "markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg",
     "chinese-test/index.ja.md",
     "chinese-test/index.zh-cn.md",
-    "C++ basics/index.md",
     "chinese-test/luca-bravo-alS7ewQ41M8-unsplash.jpg",
     "chinese-test/index.zh-tw.md",
     "chinese-test/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
